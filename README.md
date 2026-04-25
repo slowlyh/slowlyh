@@ -32,7 +32,7 @@ For more info, visit my [GitHub profile](https://github.com/slowlyh).
 ### **🎵 Favorite Music**
 Check out what I’m listening to right now! 🎧
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1E4spk5CR01gVt?si=AmQ7u6AiQamJMphxAPcNGg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb?si=69KE777_TGCtJwnQ6hVenw&context=spotify%3Aplaylist%3A37i9dQZF1E4spk5CR01gVt" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 ### 🌐 **My Profile**
 Click the button below to visit my full profile:
