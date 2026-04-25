@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://pin.it/213seL0mM" alt="welcome banner" />
+  <img src="https://i.pinimg.com/736x/72/18/a3/7218a34c097d8f0b51d8644013ddc058.jpg" alt="welcome banner" />
 </p>
 
 <h3 align="center">Hi there! I'm Hyuu 👋</h3>
