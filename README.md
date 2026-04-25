@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Hyuu;I'm+a+beginner;Learning+to+Code+🚀;Loves+Anime+%26+Music+🎵;Always+Keep+Improving+💡" />
 </h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/72/18/a3/7218a34c097d8f0b51d8644013ddc058.jpg" alt="welcome banner" />
-</p>
-
 <h3 align="center">Hi there! I'm Hyuu 👋</h3>
 
 <p align="center">
@@ -36,7 +32,7 @@ For more info, visit my [GitHub profile](https://github.com/slowlyh).
 ### **🎵 Favorite Music**
 Check out what I’m listening to right now! 🎧
 <p align="center">
-  <a href="https://open.spotify.com/track/7q4zdBAgLFETdnslE7Z0Eq?si=3HdgxRHlQvCFsIemHhw7jQ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E4spk5CR01gVt?si=AmQ7u6AiQamJMphxAPcNGg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 ### 🌐 **My Profile**
 Click the button below to visit my full profile:
